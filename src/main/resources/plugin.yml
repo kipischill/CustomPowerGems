@@ -1,0 +1,4 @@
+main: dev.kipischill.main
+name: custompowergemsfixed
+version: 1.0
+depend: [PowerGems]
